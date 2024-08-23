@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Emre
 #### Design and Development
-I'm Emre from Turkey. I do content on Design and Development. I'm learning React
+I'm Emre from Turkey. I do content on Design and Development. 
 
 - 🌱 I’m currently learning React 
 
